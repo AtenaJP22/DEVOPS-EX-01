@@ -11,3 +11,6 @@ A mini tutorial project using:
 
 ```bash
 docker-compose up --build
+
+Visit http://localhost to see it live!
+
