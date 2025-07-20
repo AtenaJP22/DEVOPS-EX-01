@@ -1,7 +1,6 @@
-# DEVOPS-EX-01
+# DEVOPS-EX-01✨
 Hello from Backend! &lt;3 A mini Docker DevOps Project: NGINX + Python Backend (Colorful Grid Edition!) 🎨🐳
 
-# DevOps EX-01 ✨
 
 A mini tutorial project using:
 - Python backend (with colorful HTML grid)
