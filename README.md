@@ -13,5 +13,5 @@ A mini tutorial project using:
 docker-compose up --build
 ```
 
-Visit http://localhost to see it live! 🐳
+After running, visit http://localhost on your device to see it live! 🐳
 
